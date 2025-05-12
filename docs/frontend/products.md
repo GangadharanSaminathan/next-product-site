@@ -14,7 +14,7 @@ This feature adds a simple product search interface at `/product-search`. It fil
 
 - Route: `/app/product-search/page.tsx`
 - Component: `/src/components/product-search/SearchBox.tsx`
-- Utility: `/src/utils/product-search/filterProducts.ts`
+- Utility: `/src/utils/product-search/getProducts.ts`
 
 ## Testing
 
